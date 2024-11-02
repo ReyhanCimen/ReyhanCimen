@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ReyhanCimen&theme=modern-lilac2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ReyhanCimen&theme=violet-dark)](https://git.io/streak-stats)
 <!--
 **ReyhanCimen/ReyhanCimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
